@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "190893713881",
+    "project_id": "my-calculator-971a0",
+    "storage_bucket": "my-calculator-971a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190893713881:android:183cb675af73fa784691c8",
+        "android_client_info": {
+          "package_name": "com.example.firebasegooglesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190893713881-vsgvjr5s59v77r8v6ef8pnafp6vtlf5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5DghRxJb3cEDSOy91Wsoz7jqH7sOtXYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190893713881-vsgvjr5s59v77r8v6ef8pnafp6vtlf5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190893713881:android:5c72107720f960874691c8",
+        "android_client_info": {
+          "package_name": "com.example.mycalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190893713881-vsgvjr5s59v77r8v6ef8pnafp6vtlf5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5DghRxJb3cEDSOy91Wsoz7jqH7sOtXYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190893713881-vsgvjr5s59v77r8v6ef8pnafp6vtlf5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190893713881:android:99f8b9f158090e4e4691c8",
+        "android_client_info": {
+          "package_name": "com.example.mycalculatorclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190893713881-vsgvjr5s59v77r8v6ef8pnafp6vtlf5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5DghRxJb3cEDSOy91Wsoz7jqH7sOtXYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190893713881-vsgvjr5s59v77r8v6ef8pnafp6vtlf5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
